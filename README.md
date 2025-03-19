@@ -1,4 +1,4 @@
-# (某AI写作)网站解密请求结果调试工具 - 技术实现
+# (某AI写作)网站解密请求结果调试工具(油猴) - 技术实现
 
 ![Tampermonkey](https://img.shields.io/badge/Platform-Tampermonkey_v4.18%2B-367CF7) 
 ![XHR Intercept](https://img.shields.io/badge/API%20Hooks-XMLHttpRequest-red) 
